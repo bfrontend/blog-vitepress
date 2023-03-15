@@ -5,7 +5,7 @@ import themeConfig from '../config/theme'
 export default defineConfig({
   title: "webxmsj's blog",
   description: "Become a front-end developer",
-  base: '/blog/',
+  base: '/blog-vitepress/',
   lastUpdated: true,
   locales: {
     root: {
